@@ -11,7 +11,7 @@
 #define EXENAME "snp-dists"
 #define GITHUB_URL "https://github.com/tseemann/snp-dists"
 
-const int MAX_SEQ = 100000;
+const int MAX_SEQ = 1000000;
 const char IGNORE_CHAR = '.';
 
 int cpus = 1;
